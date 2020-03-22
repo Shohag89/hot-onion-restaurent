@@ -1,0 +1,19 @@
+.container {
+    margin-left: 62px;
+    margin-right: 40px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.header img {
+    height: 40px;
+    margin-left: 100px;
+}
+.sign-up-btn {
+    margin-right: 50px;
+    float:  right;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+}
